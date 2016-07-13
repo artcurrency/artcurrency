@@ -1,2 +1,0 @@
-# artcurrency
-artc
